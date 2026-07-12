@@ -1,321 +1,219 @@
-<div align="center">
+# 👋 Olá, eu sou **Emanuel Penna**
 
-# 👋 Hi, I'm Emanuel Penna
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Backend+Focused+Engineer;Building+Scalable+Software;Always+Learning+Something+New;Welcome+to+my+GitHub!" alt="Typing SVG" />
-
-<p>
-Building modern software with clean architecture, scalable backend systems and exceptional user experiences.
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;Especialista+em+Backend;Criando+APIs+Escaláveis;Sempre+Aprendendo+Algo+Novo" />`{=html}
+```{=html}
 </p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=EmanuelPenna&label=Profile%20Views&color=7aa2f7&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/EmanuelPenna?style=for-the-badge&color=7aa2f7&labelColor=1a1b26" />
-<img src="https://img.shields.io/github/stars/EmanuelPenna?style=for-the-badge&color=bb9af7&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-7dcfff?style=for-the-badge" />
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=EmanuelFHX&label=Visualizações&color=7aa2f7&style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/github/followers/EmanuelFHX?style=for-the-badge&color=7aa2f7"/>`{=html}
+`<img src="https://img.shields.io/badge/Open%20to%20Work-Disponível-7dcfff?style=for-the-badge"/>`{=html}
+```{=html}
 </p>
-
-</div>
-
----
-
-# 🚀 About Me
-
-```yaml
-Name: Emanuel Penna
-Role: Fullstack Developer
-Education: Analysis and Systems Development
-Location: Brazil
-Focus: Backend Engineering | Fullstack Development
 ```
 
-I'm a Fullstack Developer passionate about creating reliable, scalable and maintainable software.
+------------------------------------------------------------------------
 
-My primary interest is backend engineering, where I enjoy designing APIs, modeling databases, optimizing performance and building systems that solve real business problems.
+# 🚀 Sobre mim
 
-I believe software engineering is much more than writing code—it's understanding problems, designing elegant solutions and continuously improving through learning and experimentation.
+``` yaml
+Nome: Emanuel Penna
+Curso: Análise e Desenvolvimento de Sistemas
+Cargo: Desenvolvedor Full Stack
+Foco: Backend • APIs • Bancos de Dados • IA
+Local: Brasil
+```
 
----
+Sou apaixonado por tecnologia e desenvolvimento de software, com foco
+principal em backend. Gosto de projetar APIs, modelar bancos de dados e
+criar aplicações escaláveis utilizando boas práticas de engenharia de
+software.
 
-# 🎯 Engineering Philosophy
+## 🎯 Objetivo
 
-- Build software that scales.
-- Prioritize clean architecture over shortcuts.
-- Write maintainable code.
-- Automate repetitive work.
-- Learn continuously.
-- Always optimize performance and developer experience.
+Atuar como Desenvolvedor Backend ou Full Stack, construindo soluções
+modernas, performáticas e de alto impacto.
 
----
+------------------------------------------------------------------------
 
-# 💻 Engineering Stack
+# 🛠️ Tecnologias
 
-## Programming Languages
+## Linguagens
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css" />
-
-</p>
-
----
-
-## Frontend
-
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
-
+```
+`<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css"/>`{=html}
+```{=html}
 </p>
+```
+## Front-end
 
----
-
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind"/>`{=html}
+```{=html}
+</p>
+```
 ## Backend
 
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
-
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet"/>`{=html}
+```{=html}
 </p>
+```
+## Banco de Dados
 
----
-
-## Databases
-
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-
+```
+`<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>`{=html}
+```{=html}
 </p>
+```
+## Ferramentas
 
----
-
-## Cloud & DevOps
-
+```{=html}
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
-
+```
+`<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-## Artificial Intelligence
+# 💼 Projetos em Destaque
 
-- OpenAI API
-- Gemini API
-- AI-powered Applications
-- Prompt Engineering
-- AI Workflow Integration
+## 🚀 PGP --- Plataforma de Gestão de Projetos
 
----
+Sistema inspirado em Notion, Trello e GitHub.
 
-## Engineering Concepts
+**Recursos**
 
-- REST APIs
-- Authentication
-- Authorization
-- JWT
-- SQL Modeling
-- MVC
-- Clean Architecture
-- Responsive UI
-- Git Workflow
-- API Integration
-- Performance Optimization
-- Error Handling
+-   Kanban
+-   Wiki
+-   Roadmap
+-   Integração com GitHub
+-   Inteligência Artificial
 
----
+**Stack**
 
-# 🏗 Engineering Experience
+React • Node.js • PostgreSQL • JWT
 
-### Backend Development
+------------------------------------------------------------------------
 
-- REST API development
-- Authentication with JWT
-- Database modeling
-- CRUD services
-- API integrations
-- SQL optimization
+## 🍔 DevBurger
 
-### Frontend Development
+Sistema Full Stack para pedidos online.
 
-- React applications
-- Responsive interfaces
-- Component architecture
-- State management
-- Modern UI
+-   Login
+-   Painel Administrativo
+-   Produtos
+-   Pedidos
+-   Stripe
 
-### Software Engineering
+------------------------------------------------------------------------
 
-- Modular architecture
-- Git version control
-- Agile development
-- Requirement analysis
-- Debugging
-- Performance improvements
+## ☀️ Sollenium
 
----
+Ferramentas internas para automação, organização de dados e otimização
+de processos.
 
-# 💼 Featured Projects
+------------------------------------------------------------------------
 
-| Project | Description | Stack |
-|----------|-------------|-------|
-| **PGP (Project Management Platform)** | A project management platform inspired by Notion, Trello and GitHub, designed to centralize documentation, Kanban boards, project planning and AI-assisted workflows. Focused on productivity, collaboration and scalable architecture. | React • Node.js • PostgreSQL |
-| **DevBurger** | Fullstack food ordering platform featuring authentication, product management, shopping cart, payment integration and responsive design. Built to simulate a production-ready e-commerce environment. | React • Node.js • Express • Stripe • SQL |
-| **Sollenium Internal Solutions** | Internal business tools focused on data organization, process optimization and operational efficiency, supporting decision-making and client management workflows. | JavaScript • SQL • Backend Services |
+# 📊 Estatísticas
 
----
-
-# 🏆 Professional Highlights
-
-- 💻 Fullstack Developer
-- 🚀 Backend-focused Engineer
-- 📚 140+ hours of Fullstack training
-- ⚙️ Experience building REST APIs
-- 🗄 Database modeling experience
-- 📦 Git & GitHub workflow
-- 📈 Continuous software engineering learning
-- 🤝 Experience collaborating on real projects
-
----
-
-# 🏅 Certifications
-
-- FullStack PRO — DevClub (140 Hours)
-
-Covered topics:
-
-- HTML
-- CSS
-- JavaScript
-- React
-- React Native
-- TypeScript
-- Git
-- GitHub
-- Node.js Fundamentals
-- Backend Fundamentals
-
----
-
-# 📚 Currently Exploring
-
-- AI Agents
-- Agentic AI
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent Systems
-- Cloud Native Applications
-- Kubernetes
-- Distributed Systems
-- Event-Driven Architecture
-- Microservices
-- High Performance APIs
-- System Design
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmanuelFHX&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelFHXa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelPenna&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmanuelPenna&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmanuelPenna&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EmanuelPenna&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/EmanuelPenna/EmanuelPenna/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
-> **Note:** Enable the GitHub Action that generates the snake animation for this section to update automatically.
-
----
-
-# 🌍 Connect With Me
-
+```{=html}
 <p align="center">
-
-<a href="mailto:emanueloficialpenna@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/emanuel-penna">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/EmanuelPenna">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/u/EmanuelFHX/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmanuelFHX&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelFHX&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmanuelFHX&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmanuelFHX&theme=tokyo-night&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=EmanuelFHX&theme=tokyonight&no-frame=true&margin-w=15"/>`{=html}
+```{=html}
+</p>
+```
+> **Snake de contribuições:** após criar a GitHub Action, utilize:
+>
+> `https://raw.githubusercontent.com/EmanuelFHX/EmanuelFHX/output/github-contribution-grid-snake-dark.svg`
 
----
+------------------------------------------------------------------------
 
-# ⚡ Fun Facts
+# 🌱 Atualmente estudando
 
-- ☕ I enjoy solving complex engineering problems.
-- 📚 Constant learner.
-- 🚀 Passionate about backend architecture.
-- 💡 Always experimenting with new technologies.
+-   Arquitetura Limpa
+-   Microserviços
+-   Docker
+-   Kubernetes
+-   IA Generativa
+-   Agentes de IA
+-   RAG
+-   System Design
+-   ASP.NET
+-   PostgreSQL Avançado
 
----
+------------------------------------------------------------------------
 
-# 💬 Favorite Quote
+# 🏆 Certificações
 
-> **"Great software isn't measured by the amount of code written—it's measured by the problems it solves, the people it empowers and the systems that stand the test of time."**
+-   Full Stack PRO --- DevClub (140 horas)
 
----
+------------------------------------------------------------------------
 
-<div align="center">
+# 📫 Contato
 
-### ⭐ Thanks for visiting!
+```{=html}
+<p align="center">
+```
+`<a href="mailto:emanueloficialpenna@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/emanuel-penna">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/EmanuelFHX">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
+`<a href="https://leetcode.com/u/EmanuelFHX/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
 
-*"Code with purpose. Build with quality. Learn forever."*
+------------------------------------------------------------------------
 
-</div>
-````
+# 💬 Filosofia
+
+> **"A melhor engenharia não é a que escreve mais código, mas a que
+> resolve problemas com simplicidade, qualidade e visão de longo
+> prazo."**
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### ⭐ Obrigado pela visita!
+
+**Construindo software, aprendendo continuamente e compartilhando
+conhecimento.**
+:::
