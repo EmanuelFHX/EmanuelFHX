@@ -220,9 +220,9 @@ Covered topics:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmanuelPenna&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmanuelFHX&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelPenna&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelFHXa&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
