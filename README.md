@@ -777,7 +777,7 @@ jobs:
 
 SNAKE:
 
-```md
+md
 ## 🐍 Contribuições
 
 <div align="center">
@@ -785,7 +785,7 @@ SNAKE:
 <img src="https://raw.githubusercontent.com/EmanuelFHX/EmanuelFHX/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
-```
+
 
 ---
 
