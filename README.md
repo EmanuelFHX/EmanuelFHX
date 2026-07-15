@@ -312,36 +312,37 @@ Tenho interesse especial em arquitetura de software, backend, inteligência arti
 
 <td width="50%">
 
-## 🚀 PGP
+## 🎴 TCG Templar
 
-### Plataforma de Gestão de Projetos
+### Trading Card Game Online
 
-Inspirada em **GitHub**, **Notion** e **Trello**, a PGP foi criada para centralizar documentação, gerenciamento de tarefas, IA e planejamento de projetos em um único ambiente.
+Jogo de cartas estratégico desenvolvido para a web, com sistema de progressão, coleção de cartas, batalhas PvE/PvP e gerenciamento completo de decks.
 
 ### Stack
 
-React • Node.js • PostgreSQL • Docker • JWT
+Next.js • React • TypeScript • Supabase • PostgreSQL
 
 ### Recursos
 
-- 📋 Kanban
-- 📚 Wiki
-- 🤖 Inteligência Artificial
-- 📅 Roadmaps
-- 👥 Equipes
-- 📊 Dashboard
-- 🔐 Autenticação
-- 🔗 Integração com GitHub
+- 🃏 Coleção de Cartas
+- ⚔️ Batalhas Estratégicas
+- 👤 Sistema de Perfil
+- 🎒 Gerenciamento de Decks
+- 🛒 Loja de Pacotes
+- ⭐ Progressão por XP
+- 🎯 Missões Diárias
+- 🌐 Multiplayer (em desenvolvimento)
 
-### Arquitetura
+### Conceitos
 
-- React
-- Node.js
-- REST API
-- PostgreSQL
-- Arquitetura Modular
+- Game Design
+- Arquitetura Full Stack
+- Banco de Dados
+- Autenticação
+- Componentização
+- Responsividade
 
-<a href="LINK_DO_REPOSITORIO_PGP">
+<a href="LINK_DO_REPOSITORIO_TCG">
 <img src="https://img.shields.io/badge/Ver%20Projeto-7AA2F7?style=for-the-badge"/>
 </a>
 
@@ -349,36 +350,37 @@ React • Node.js • PostgreSQL • Docker • JWT
 
 <td width="50%">
 
-## 🍔 DevBurger
+## 🤖 HOPE
 
-### Plataforma Full Stack para Delivery
+### VTuber AI Assistant
 
-Projeto desenvolvido para simular uma aplicação utilizada em produção, envolvendo autenticação, painel administrativo, gerenciamento de produtos e integração com pagamentos.
+Assistente de IA desenvolvida em Python capaz de conversar por voz, manter contexto, controlar expressões do avatar e interagir em tempo real com o VTube Studio.
 
 ### Stack
 
-React • Express • PostgreSQL • Stripe
+Python • Ollama • Speech Recognition • Edge TTS • WebSocket
 
 ### Recursos
 
-- Login
-- Cadastro
-- Painel Admin
-- Produtos
-- Categorias
-- Pedidos
-- Dashboard
-- Stripe
+- 🎙️ Reconhecimento de Voz
+- 💬 Conversação Natural
+- 🧠 Memória de Contexto
+- 🔊 Síntese de Voz
+- 😊 Controle de Expressões
+- 🎭 Integração com VTube Studio
+- ⚡ Modelo Local com Ollama
+- 🎤 Palavra de Ativação
 
 ### Conceitos
 
-- REST API
-- JWT
-- CRUD
-- Banco Relacional
-- Componentização
+- Inteligência Artificial
+- Engenharia de Software
+- Processamento de Voz
+- Automação
+- APIs
+- WebSocket
 
-<a href="LINK_DO_REPOSITORIO_DEVBURGER">
+<a href="LINK_DO_REPOSITORIO_HOPE">
 <img src="https://img.shields.io/badge/Ver%20Projeto-7AA2F7?style=for-the-badge"/>
 </a>
 
