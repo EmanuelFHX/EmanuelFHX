@@ -736,47 +736,6 @@ Tenho interesse em empresas que valorizam aprendizado contínuo, boas práticas 
 
 # 🐍 Snake de Contribuições
 
-> Crie o arquivo abaixo em:
->
-> `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: EmanuelFHX
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-SNAKE:
-
 md
 ## 🐍 Contribuições
 
