@@ -388,46 +388,71 @@ React • Express • PostgreSQL • Stripe
 
 ---
 
-## ⭐ Terceiro Projeto
+## 🌐 Portfólio Pessoal
 
-> **Substitua esta seção pelo seu terceiro projeto principal.**  
-> (Quando você me enviar o nome e o link, eu escrevo uma descrição no mesmo nível dos dois acima.)
+### Plataforma desenvolvida para apresentar minha trajetória, projetos e habilidades como Software Engineer e Desenvolvedor Full Stack.
 
-<table>
+Um portfólio moderno criado com foco em desempenho, animações fluidas e experiência do usuário, servindo como vitrine profissional e centralizando informações sobre meus principais projetos.
 
-<tr>
+### 🔗 Acesse
 
-<td>
-
-### 🎯 Objetivo
-
-Resolver um problema real utilizando boas práticas de Engenharia de Software e desenvolvimento Full Stack.
-
-### Tecnologias
-
-- React
-- Node.js
-- PostgreSQL
-- Docker
-
-### Destaques
-
-- Arquitetura organizada
-- APIs REST
-- Banco de Dados
-- Segurança
-- Performance
-- Escalabilidade
-
-<a href="LINK_DO_TERCEIRO_PROJETO">
-<img src="https://img.shields.io/badge/Ver%20Projeto-7AA2F7?style=for-the-badge"/>
+<a href="https://portfolio-emanuel-penna.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Ver%20Portfólio-7AA2F7?style=for-the-badge"/>
 </a>
 
-</td>
+### ⚙️ Tecnologias
 
-</tr>
+<p>
 
-</table>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase"/>
+
+</p>
+
+**Principais tecnologias**
+
+- Next.js 16 (App Router)
+- React 19
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Framer Motion
+- GSAP
+- Three.js
+- React Three Fiber
+- React Three Drei
+- React Three Rapier
+- Meshline
+- Lucide React
+- React Icons
+- SweetAlert2
+- ESLint
+
+### ✨ Funcionalidades
+
+- 🎨 Interface moderna e responsiva
+- 🌙 Tema escuro com identidade visual personalizada
+- 🎥 Animações utilizando Framer Motion e GSAP
+- 🌌 Elementos 3D com Three.js
+- 🔐 Integração com Supabase
+- 📂 Exibição dinâmica de projetos
+- 📱 Design responsivo
+- ⚡ Alto desempenho utilizando Next.js 16
+- ♿ Navegação intuitiva e acessível
+
+### 🏗️ Arquitetura
+
+- Next.js App Router
+- Componentização
+- Server Components
+- Client Components
+- SSR
+- Integração com banco de dados via Supabase
+- Organização modular
+- Código tipado com TypeScript
+
+### 💡 Objetivo
+
+Desenvolver um portfólio que represente minha evolução como desenvolvedor, aplicando conceitos modernos de Engenharia de Software, animações avançadas e boas práticas de desenvolvimento web.
 
 ---
 
