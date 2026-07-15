@@ -735,8 +735,6 @@ Tenho interesse em empresas que valorizam aprendizado contínuo, boas práticas 
 ---
 
 # 🐍 Snake de Contribuições
-
-md
 ## 🐍 Contribuições
 
 <div align="center">
