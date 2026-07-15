@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Emanuel Penna
+# 👋 Olá, me chamo Emanuel Penna
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;Apaixonado+por+Engenharia+de+Software" alt="Typing SVG" />
