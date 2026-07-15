@@ -1,126 +1,80 @@
 <div align="center">
 
-# 👋 Olá, eu sou <span style="color:#7AA2F7;">Emanuel Penna</span>
+# 👋 Olá, eu sou Emanuel Penna
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Backend+Enthusiast;Construindo+Soluções+Escaláveis;Sempre+Aprendendo+Algo+Novo"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Backend+Developer;Construindo+Soluções+Escaláveis;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG"/>
 
 <br>
 
-### Software Engineer • Full Stack Developer
+### 💻 Software Engineer • Full Stack Developer
 
-> Construindo aplicações modernas, APIs escaláveis e soluções inteligentes através da Engenharia de Software.
+Construindo aplicações modernas, APIs escaláveis e soluções inteligentes através da Engenharia de Software.
 
 <br>
 
 <a href="mailto:emanueloficialpenna@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/emanuel-penna">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/EmanuelFHX">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/EmanuelFHX/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=EmanuelFHX&label=Visitantes&color=7AA2F7&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=EmanuelFHX&label=Visualizações&color=7AA2F7&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/EmanuelFHX?style=for-the-badge&color=7AA2F7&labelColor=1a1b27"/>
 
 </div>
 
 ---
 
-## 💡 Sobre mim
+# 🚀 Sobre Mim
 
 ```yaml
 Nome: Emanuel Penna
+
+Cargo:
+  - Software Engineer
+  - Full Stack Developer
 
 Formação:
   - Análise e Desenvolvimento de Sistemas
   - Engenharia de Software (em andamento)
 
-Objetivo:
-  Tornar-me Software Engineer especializado em desenvolvimento
-  Full Stack, Backend e Arquitetura de Software.
-
 Foco:
-  • APIs REST
-  • Engenharia de Software
-  • Inteligência Artificial
-  • Desenvolvimento Web
-  • Arquitetura
+  - Backend
+  - APIs REST
+  - Arquitetura de Software
+  - Inteligência Artificial
+  - Desenvolvimento Full Stack
+
+Objetivo:
+  Construir aplicações modernas, escaláveis,
+  seguras e de alto desempenho.
 ```
 
-Sou apaixonado por criar software que resolve problemas reais.
+Sou apaixonado por tecnologia e desenvolvimento de software, com foco na criação de aplicações completas, APIs robustas e soluções que gerem impacto real.
 
-Acredito que escrever código é apenas uma parte do trabalho. O verdadeiro desafio está em entender o problema, projetar uma solução escalável e entregar uma aplicação simples de usar, segura e fácil de evoluir.
+Tenho grande interesse por Engenharia de Software, Arquitetura de Sistemas, Inteligência Artificial e desenvolvimento de produtos, buscando sempre aplicar boas práticas, código limpo e soluções escaláveis.
 
-Atualmente concentro meus estudos em Engenharia de Software, arquitetura de sistemas, desenvolvimento backend, inteligência artificial e aplicações Full Stack.
-
----
-
-## 🚀 Atualmente
-
-- 🔥 Desenvolvendo projetos Full Stack
-- 📚 Estudando Engenharia de Software
-- 🤖 Explorando Inteligência Artificial
-- 🏗 Aprendendo Arquitetura de Software
-- ☁️ Evoluindo em Docker e Cloud
-- 📖 Estudando System Design
+Atualmente concentro meus estudos em desenvolvimento Full Stack, arquitetura, cloud, IA e padrões modernos de engenharia.
 
 ---
 
-> *"A melhor solução não é a que possui mais código, mas a que resolve o problema da forma mais simples e sustentável."*
-
----
-
-# 🛠️ Stack Tecnológica
-
-<div align="center">
-
-## Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css" />
-</p>
-
-## Front-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
-</p>
-
-## Back-End
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
-</p>
-
-## Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
-
-## Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-</p>
-
-</div>
-
----
-
-# 💼 O que gosto de desenvolver
+## 🎯 Especialidades
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -128,13 +82,13 @@ Atualmente concentro meus estudos em Engenharia de Software, arquitetura de sist
 ### ⚙️ Backend
 
 - APIs REST
-- Autenticação JWT
-- Modelagem de Banco de Dados
-- Integrações entre sistemas
-- Regras de negócio
-- Arquitetura em camadas
-- Performance
-- Segurança
+- Node.js
+- Express
+- C#
+- .NET
+- JWT
+- Autenticação
+- Integrações
 
 </td>
 
@@ -143,256 +97,381 @@ Atualmente concentro meus estudos em Engenharia de Software, arquitetura de sist
 ### 🎨 Frontend
 
 - React
-- Interfaces Responsivas
-- UX/UI
-- Componentização
-- Consumo de APIs
-- Dashboards
-- Formulários
-- Estado da aplicação
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Vite
+- Tailwind CSS
+- Bootstrap
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
+## 💡 Filosofia
+
+> **"Escrever código é apenas uma parte do desenvolvimento. O verdadeiro desafio é construir software simples, escalável e preparado para evoluir."**
+
+---
+
+# ⚡ Engineering Stack
+
+<div align="center">
+
+## 💻 Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css" />
+</p>
+
+## 🎨 Front-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
+
+## ⚙️ Back-End
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+## 🗄️ Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
+</p>
+
+</div>
+
+---
+
+# 🏗️ Experiência em Engenharia
+
 <table>
+
 <tr>
 
 <td width="50%">
 
-### ☁️ Atualmente aprendendo
+## 🚀 Desenvolvimento Backend
 
-- Docker
-- Kubernetes
-- Cloud Computing
-- CI/CD
-- Microserviços
-- Clean Architecture
-- DDD
-- Testes Automatizados
+- APIs REST
+- Autenticação JWT
+- CRUDs
+- Upload de arquivos
+- Integração com APIs
+- Middleware
+- Validação de dados
+- Arquitetura em camadas
 
 </td>
 
 <td width="50%">
 
-### 🤖 Inteligência Artificial
+## 🎨 Desenvolvimento Front-End
 
-- OpenAI API
-- Gemini API
-- Prompt Engineering
-- AI Agents
-- RAG
-- LLMs
-- Automações
-- IA aplicada ao desenvolvimento
+- React
+- Componentização
+- Hooks
+- Context API
+- Consumo de APIs
+- Interfaces Responsivas
+- Dashboards
+- UX moderna
 
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%">
+
+## 🗄️ Banco de Dados
+
+- PostgreSQL
+- MySQL
+- SQLite
+- Modelagem Relacional
+- Consultas SQL
+- Migrations
+- ORM
+- Sequelize
+
+</td>
+
+<td width="50%">
+
+## 🔒 Segurança
+
+- JWT
+- Hash de Senhas
+- Controle de Acesso
+- Variáveis de Ambiente
+- Validação de Dados
+- Proteção de Rotas
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-# 📈 Roadmap
+# 🧠 Atualmente Explorando
 
-| Status | Objetivo |
-|:---:|---|
-| ✅ | JavaScript |
-| ✅ | TypeScript |
-| ✅ | HTML & CSS |
-| ✅ | React |
-| ✅ | Node.js |
-| ✅ | SQL |
-| ✅ | Git & GitHub |
-| ✅ | APIs REST |
-| ✅ | JWT |
-| 🔄 | Docker |
-| 🔄 | .NET |
-| 🔄 | Engenharia de Software |
-| 🔄 | Clean Architecture |
-| 🔄 | Testes |
-| 🔄 | Kubernetes |
-| 🎯 | AWS |
-| 🎯 | Microservices |
-| 🎯 | System Design |
+<div align="center">
+
+| Área | Status |
+|------|:------:|
+| 🤖 Inteligência Artificial | 🚀 |
+| 🧠 LLM Engineering | 🚀 |
+| ⚙️ Engenharia de Software | 🚀 |
+| 🏗️ Arquitetura de Software | 🚀 |
+| 🐳 Docker | 🚀 |
+| ☁️ Cloud Computing | 📚 |
+| ☸️ Kubernetes | 📚 |
+| 📐 System Design | 📚 |
+| 🔄 Clean Architecture | 📚 |
+| 🧩 Design Patterns | 📚 |
+
+</div>
 
 ---
 
-# 🧠 Filosofia de Engenharia
+# 📈 Competências
 
-> Escrever código é fácil.
->
-> Projetar sistemas simples, escaláveis e fáceis de manter é o verdadeiro desafio.
->
-> Meu objetivo é evoluir continuamente como **Software Engineer**, criando soluções que gerem impacto real para usuários e empresas.
+<div align="center">
+
+| Backend | Frontend | Banco de Dados | Ferramentas |
+|---------|----------|----------------|-------------|
+| Node.js | React | PostgreSQL | Git |
+| Express | TypeScript | MySQL | GitHub |
+| .NET | JavaScript | SQLite | Docker |
+| JWT | HTML5 | Sequelize | Linux |
+| APIs REST | CSS3 | SQL | VS Code |
+
+</div>
+
+---
+
+# 🏆 Destaques Profissionais
+
+✅ Desenvolvimento de aplicações Full Stack
+
+✅ Construção de APIs REST
+
+✅ Integração com Stripe
+
+✅ Autenticação JWT
+
+✅ Modelagem de Banco de Dados
+
+✅ Desenvolvimento utilizando React
+
+✅ Integração entre Frontend e Backend
+
+✅ Organização seguindo boas práticas
+
+✅ Aprendizado contínuo em Engenharia de Software
+
+---
+
+# 🎯 Objetivo Profissional
+
+Meu objetivo é atuar como **Software Engineer** e **Desenvolvedor Full Stack**, participando da construção de produtos escaláveis, seguros e de alta qualidade.
+
+Tenho interesse especial em arquitetura de software, backend, inteligência artificial, cloud computing e desenvolvimento de aplicações modernas.
 
 ---
 
 # 🚀 Projetos em Destaque
 
-> Alguns dos projetos que representam minha evolução como desenvolvedor e minha forma de resolver problemas através da tecnologia.
+> Projetos que representam minha evolução como Desenvolvedor Full Stack e Software Engineer.
 
 ---
 
-## 🧠 PGP — Plataforma de Gestão de Projetos
+<table>
 
-> Uma plataforma inspirada no GitHub, Notion e Trello, criada para centralizar gerenciamento de projetos, documentação técnica, tarefas e recursos de Inteligência Artificial em um único ambiente.
+<tr>
 
-### Objetivo
+<td width="50%">
 
-Criar uma plataforma moderna para desenvolvedores e equipes técnicas organizarem todo o ciclo de desenvolvimento de software.
+## 🚀 PGP
 
-### Tecnologias
+### Plataforma de Gestão de Projetos
 
-<p>
+Inspirada em **GitHub**, **Notion** e **Trello**, a PGP foi criada para centralizar documentação, gerenciamento de tarefas, IA e planejamento de projetos em um único ambiente.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,docker,git"/>
+### Stack
 
-</p>
+React • Node.js • PostgreSQL • Docker • JWT
 
-### Principais funcionalidades
+### Recursos
 
-- 📌 Gerenciamento de Projetos
 - 📋 Kanban
-- 📝 Wiki Técnica
-- 🧠 Integração com IA
-- 🔗 Integração com GitHub
-- 👥 Gestão de Equipes
+- 📚 Wiki
+- 🤖 Inteligência Artificial
 - 📅 Roadmaps
+- 👥 Equipes
 - 📊 Dashboard
+- 🔐 Autenticação
+- 🔗 Integração com GitHub
 
 ### Arquitetura
 
-- Frontend em React
-- Backend Node.js
-- API REST
+- React
+- Node.js
+- REST API
 - PostgreSQL
-- JWT Authentication
 - Arquitetura Modular
 
-### Aprendizados
+<a href="LINK_DO_REPOSITORIO_PGP">
+<img src="https://img.shields.io/badge/Ver%20Projeto-7AA2F7?style=for-the-badge"/>
+</a>
 
-- Organização de projetos grandes
-- Estruturação de APIs
-- Modelagem de banco
-- Planejamento de produto
-- Arquitetura de Software
+</td>
 
----
+<td width="50%">
 
 ## 🍔 DevBurger
 
-> Aplicação Full Stack desenvolvida para simular um ambiente real de e-commerce e delivery.
+### Plataforma Full Stack para Delivery
 
-### Objetivo
+Projeto desenvolvido para simular uma aplicação utilizada em produção, envolvendo autenticação, painel administrativo, gerenciamento de produtos e integração com pagamentos.
 
-Aplicar conceitos utilizados em sistemas reais, incluindo autenticação, painel administrativo, integração com pagamentos e gerenciamento de pedidos.
+### Stack
 
-### Tecnologias
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres"/>
-
-</p>
+React • Express • PostgreSQL • Stripe
 
 ### Recursos
 
 - Login
 - Cadastro
-- JWT
-- Painel Administrativo
+- Painel Admin
 - Produtos
 - Categorias
 - Pedidos
-- Integração Stripe
 - Dashboard
+- Stripe
 
-### Conceitos aplicados
+### Conceitos
 
-- CRUD
 - REST API
+- JWT
+- CRUD
+- Banco Relacional
 - Componentização
-- Banco de Dados Relacional
+
+<a href="LINK_DO_REPOSITORIO_DEVBURGER">
+<img src="https://img.shields.io/badge/Ver%20Projeto-7AA2F7?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## ⭐ Terceiro Projeto
+
+> **Substitua esta seção pelo seu terceiro projeto principal.**  
+> (Quando você me enviar o nome e o link, eu escrevo uma descrição no mesmo nível dos dois acima.)
+
+<table>
+
+<tr>
+
+<td>
+
+### 🎯 Objetivo
+
+Resolver um problema real utilizando boas práticas de Engenharia de Software e desenvolvimento Full Stack.
+
+### Tecnologias
+
+- React
+- Node.js
+- PostgreSQL
+- Docker
+
+### Destaques
+
+- Arquitetura organizada
+- APIs REST
+- Banco de Dados
 - Segurança
-- Autenticação
+- Performance
+- Escalabilidade
+
+<a href="LINK_DO_TERCEIRO_PROJETO">
+<img src="https://img.shields.io/badge/Ver%20Projeto-7AA2F7?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## ☀️ Sollenium
+# 🏆 Principais Competências Demonstradas
 
-> Participação em soluções voltadas para organização de processos internos, análise de dados e relacionamento com clientes.
+<div align="center">
 
-### Atuação
+| Backend | Frontend | Arquitetura | Banco de Dados |
+|:-------:|:--------:|:-----------:|:--------------:|
+| APIs REST | React | Arquitetura em Camadas | PostgreSQL |
+| JWT | TypeScript | Modularização | MySQL |
+| Express | Componentização | Clean Code | SQLite |
+| .NET | Responsividade | Escalabilidade | Sequelize |
 
-- Desenvolvimento de soluções
-- Organização de dados
-- Automação de processos
-- Atendimento ao cliente
-- Levantamento de requisitos
-
-### Competências desenvolvidas
-
-- Comunicação
-- Organização
-- Trabalho em equipe
-- Resolução de problemas
-- Pensamento analítico
+</div>
 
 ---
 
-# 📚 Outros Projetos
+# 📈 Destaques da Minha Jornada
 
-| Projeto | Área | Status |
-|----------|------|--------|
-| 🎮 Ferramentas para Monster Hunter Wilds | Desktop | 🚧 |
-| 🤖 Estudos com IA (OpenAI / Gemini) | Inteligência Artificial | 🚀 |
-| 📊 Dashboards e Sistemas Web | Full Stack | ✅ |
-| 🌐 APIs REST | Backend | ✅ |
-| 📦 Sistemas CRUD | Backend | ✅ |
-
----
-
-# 🏆 O que busco em cada projeto
-
-Mais do que apenas escrever código, procuro desenvolver projetos que me permitam evoluir em aspectos fundamentais da Engenharia de Software.
-
-✔ Arquitetura
-
-✔ Organização
-
-✔ Escalabilidade
-
-✔ Performance
-
-✔ Segurança
-
-✔ Experiência do usuário
-
-✔ Qualidade de código
-
-✔ Boas práticas
-
-✔ Manutenibilidade
+- 🚀 Desenvolvimento de aplicações Full Stack
+- 🏗️ Construção de APIs REST escaláveis
+- 🔐 Implementação de autenticação JWT
+- 💳 Integração com Stripe
+- 🗄️ Modelagem de Banco de Dados
+- 📚 Estudos contínuos em Engenharia de Software
+- 🤖 Exploração de Inteligência Artificial
+- ☁️ Evolução em Cloud Computing e Docker
+- 📖 Aprendizado constante em Arquitetura de Software
 
 ---
 
-# 💼 Meu objetivo profissional
+# 💼 O que procuro construir
 
-Meu objetivo é atuar como **Software Engineer** e **Desenvolvedor Full Stack**, participando da construção de produtos que gerem impacto real.
+Meu objetivo é desenvolver software que seja:
 
-Tenho especial interesse em:
+- ⚡ Escalável
+- 🔒 Seguro
+- 🧩 Fácil de manter
+- 🚀 Performático
+- 📈 Preparado para crescimento
+- 👥 Focado na experiência do usuário
 
-- Engenharia de Software
-- Desenvolvimento Backend
-- APIs
-- Sistemas Distribuídos
-- Inteligência Artificial
-- Cloud Computing
-- Arquitetura de Software
+Mais do que escrever código, busco entender problemas de negócio e transformá-los em soluções robustas utilizando princípios sólidos de Engenharia de Software.
 
 ---
 
@@ -400,9 +479,9 @@ Tenho especial interesse em:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmanuelFHX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmanuelFHX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelFHX&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelFHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -424,74 +503,279 @@ Tenho especial interesse em:
 
 ---
 
-# 🏆 Conquistas
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=EmanuelFHX&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=EmanuelFHX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 📈 Meu foco atualmente
+# 📈 Resumo do Perfil
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmanuelFHX&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmanuelFHX&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EmanuelFHX&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmanuelFHX&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 Estatísticas Profissionais
+
+<div align="center">
+
+| Métrica | Objetivo |
+|:-------:|:--------|
+| 🚀 Desenvolvimento | Aplicações Full Stack modernas |
+| ⚙️ Backend | APIs REST escaláveis |
+| 🏗️ Arquitetura | Sistemas organizados e modulares |
+| 🔒 Segurança | Autenticação e autorização |
+| 🗄️ Banco de Dados | Modelagem relacional |
+| 🤖 IA | Integração de modelos inteligentes |
+| ☁️ Cloud | Evolução contínua |
+| 📚 Engenharia | Aprendizado constante |
+
+</div>
+
+---
+
+# 🌱 Atualmente Explorando
+
+<div align="center">
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td align="center">
 
-### 🚀 Desenvolvimento
+🤖
 
-- APIs REST
-- React
-- Node.js
-- .NET
-- PostgreSQL
-- Docker
+### IA
+
+LLMs
+
+AI Agents
+
+Prompt Engineering
+
+RAG
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-### 📚 Estudos
+🏗️
 
-- Engenharia de Software
-- System Design
-- Cloud Computing
-- Kubernetes
-- Clean Architecture
-- Inteligência Artificial
+### Arquitetura
+
+Clean Architecture
+
+DDD
+
+SOLID
+
+System Design
+
+</td>
+
+<td align="center">
+
+☁️
+
+### Cloud
+
+Docker
+
+Kubernetes
+
+CI/CD
+
+AWS
+
+</td>
+
+<td align="center">
+
+⚡
+
+### Performance
+
+Caching
+
+Escalabilidade
+
+Observabilidade
+
+Boas Práticas
 
 </td>
 
 </tr>
+
 </table>
+
+</div>
 
 ---
 
-# 📅 Roadmap 2026
+# 📅 Objetivos para 2026
 
-```text
-██████████████████████░░░░░░  JavaScript
+- ✅ Consolidar conhecimentos em Engenharia de Software
+- ✅ Desenvolver projetos Full Stack mais robustos
+- ✅ Evoluir em Arquitetura de Software
+- ✅ Aprofundar conhecimentos em Docker e Cloud
+- ✅ Estudar Kubernetes
+- ✅ Criar aplicações com Inteligência Artificial
+- ✅ Contribuir para projetos Open Source
+- ✅ Construir uma plataforma SaaS em produção
 
-██████████████████████░░░░░░  React
+---
 
-█████████████████████░░░░░░░  Node.js
+# 💻 Filosofia de Engenharia
 
-█████████████████░░░░░░░░░░░  Docker
+> **"Software de qualidade não nasce da complexidade, mas da clareza, da simplicidade e da capacidade de evoluir ao longo do tempo."**
 
-██████████████░░░░░░░░░░░░░░  .NET
+---
 
-██████████░░░░░░░░░░░░░░░░░░  Kubernetes
+# 🤝 Vamos nos Conectar
 
-████████░░░░░░░░░░░░░░░░░░░░  Cloud
+<div align="center">
 
-██████░░░░░░░░░░░░░░░░░░░░░░  Microservices
+<a href="mailto:emanueloficialpenna@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/emanuel-penna">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/EmanuelFHX">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/EmanuelFHX/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🏅 Certificações
+
+- 🎓 **Full Stack PRO** — DevClub (140 horas)
+- 📚 Graduação em **Análise e Desenvolvimento de Sistemas**
+- 🎓 Graduando em **Engenharia de Software**
+
+---
+
+# 💼 Em busca de oportunidades
+
+Estou em busca de oportunidades como:
+
+- 💻 Software Engineer
+- 🚀 Desenvolvedor Full Stack
+- ⚙️ Desenvolvedor Backend
+
+Tenho interesse em empresas que valorizam aprendizado contínuo, boas práticas de engenharia, arquitetura de software e desenvolvimento de produtos escaláveis.
+
+---
+
+# ❤️ Obrigado pela visita!
+
+<div align="center">
+
+### Se você gostou dos meus projetos, considere deixar uma ⭐ nos repositórios.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer"/>
+
+</div>
+
+---
+
+# 🐍 Snake de Contribuições
+
+> Crie o arquivo abaixo em:
+>
+> `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: EmanuelFHX
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Depois adicione esta seção ao README:
+
+```md
+# 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/EmanuelFHX/EmanuelFHX/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 ```
 
 ---
 
-# 💭 Uma frase que guia meu trabalho
+# 💬 Citação
 
-> **"Boas aplicações resolvem problemas. Grandes aplicações continuam resolvendo esses problemas mesmo quando crescem."**
+> **"A melhor engenharia não é aquela que produz mais código, mas a que transforma problemas complexos em soluções simples, escaláveis e duradouras."**
+
+---
+
+<div align="center">
+
+## ⭐ Obrigado por visitar meu perfil!
+
+**"Construindo software, evoluindo todos os dias e transformando ideias em soluções."**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=3"/>
+
+</div>
