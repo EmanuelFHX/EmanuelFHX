@@ -342,7 +342,7 @@ Next.js • React • TypeScript • Supabase • PostgreSQL
 - Componentização
 - Responsividade
 
-<a href="LINK_DO_REPOSITORIO_TCG">
+<a href="https://github.com/EmanuelFHX/tcg-templar-showcase">
 <img src="https://img.shields.io/badge/Ver%20Projeto-7AA2F7?style=for-the-badge"/>
 </a>
 
@@ -380,7 +380,7 @@ Python • Ollama • Speech Recognition • Edge TTS • WebSocket
 - APIs
 - WebSocket
 
-<a href="LINK_DO_REPOSITORIO_HOPE">
+<a href="https://github.com/EmanuelFHX/hope-vtuber-assistant">
 <img src="https://img.shields.io/badge/Ver%20Projeto-7AA2F7?style=for-the-badge"/>
 </a>
 
