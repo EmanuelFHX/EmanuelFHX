@@ -775,14 +775,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Depois adicione esta seção ao README:
+SNAKE:
 
 ```md
-# 🐍 Contribuições
+## 🐍 Contribuições
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EmanuelFHX/EmanuelFHX/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/EmanuelFHX/EmanuelFHX/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 ```
